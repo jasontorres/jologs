@@ -1,0 +1,16 @@
+History.txt
+jologs.gemspec
+lib/jologs/jologize.rb
+lib/jologs.rb
+lib/jologs.yml
+Manifest
+Rakefile
+README.txt
+script/console
+script/destroy
+script/generate
+spec/jologize_spec.rb
+spec/jologs_spec.rb
+spec/spec.opts
+spec/spec_helper.rb
+tasks/rspec.rake
